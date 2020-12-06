@@ -1,11 +1,12 @@
-import React from "react";
-import ReactDOM from "react-dom";
-import "./app.scss";
+/* eslint-disable react/prefer-stateless-function */
+import React from 'react'
+import ReactDOM from 'react-dom'
+import './app.scss'
 
 class Hello extends React.Component {
-    render() {
-        return <div class="hello">Hello world!!</div>;
-    }
+  render() {
+    return <div className='hello'>Hello world!!</div>
+  }
 }
 
-var mountNode = document.getElementById("app");
+ReactDOM.render(<App />, document.getElementById('app'))

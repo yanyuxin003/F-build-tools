@@ -3,13 +3,34 @@
   <component name="ChangeListManager">
     <list default="true" id="dba9f12b-d44d-4d96-9c99-b6efc83d3516" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/.babelrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.eslintrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/11/46cdc4de518f8f9a174551273f2e9f.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/41/32475e013b0288234f67aa3ede5146.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/4c/1d6e2f216a4717de5170d9f94f7a92.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/6a/b5d7c52838fd94c1848c0ac082f045.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/7f/170a44cb57ab42396d07afa1f99fed.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/89/7e54f8cfb0ba1d160ab35c214b48cf.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/8d/411d68cece7becff7c4e89121618b6.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/aa/edb888e6a3e28b9ece321f8dd20c97.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/c0/6cad4e2c51f56a141e166b053782e0.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/c3/4700f1ebc266e31a7cfec20b2d138a.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/cb/251e674b30b0fac280cbe8ea188b1e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/cc/4b36a18639a6f4c4676ceff514d696.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/ee/058b4d37c8490ec6d372d825d2a9ea.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/f8/d9f973ea181317a0d9ee010ed9ebba.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/F-build-tools.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.prettierrc.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/app.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/app.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/3b/a6893570d8a441c114b1cb5280ba54.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/3b/a6893570d8a441c114b1cb5280ba54.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.eslintrc.js" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintrc.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -98,8 +119,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.eslintrc.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="239">
-              <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+            <state relative-caret-position="220">
+              <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -134,7 +155,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="632" />
     <option name="width" value="1295" />
     <option name="height" value="1038" />
@@ -204,12 +225,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607265275944</updated>
-      <workItem from="1607265277281" duration="1334000" />
+      <workItem from="1607265277281" duration="2057000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1334000" />
+    <option name="totallyTimeSpent" value="2057000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -244,6 +265,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="[yyx] add react" />
+    <option name="LAST_COMMIT_MESSAGE" value="[yyx] add react" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/package-lock.json">
@@ -291,8 +316,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.eslintrc.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+        <state relative-caret-position="220">
+          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
         </state>
       </provider>
     </entry>
